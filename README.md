@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -22,8 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
