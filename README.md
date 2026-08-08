@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
