@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0704-binary-search](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
