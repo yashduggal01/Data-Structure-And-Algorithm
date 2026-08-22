@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0875-koko-eating-bananas) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
