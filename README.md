@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
