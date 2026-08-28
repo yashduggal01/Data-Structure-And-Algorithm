@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 ## Linked List
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
