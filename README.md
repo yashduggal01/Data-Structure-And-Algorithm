@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
