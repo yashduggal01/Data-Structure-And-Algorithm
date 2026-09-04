@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
+| [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
