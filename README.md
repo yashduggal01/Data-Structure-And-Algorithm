@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -221,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
