@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Matrix
 |  |
@@ -182,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
 | [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Sweep Line
 |  |
 | ------- |
