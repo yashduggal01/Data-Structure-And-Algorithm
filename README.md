@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
+| [0901-online-stock-span](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -242,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1934-confirmation-rate) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
