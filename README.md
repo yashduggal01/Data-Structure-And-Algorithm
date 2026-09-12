@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -173,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
+| [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
 | [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
 |  |
 | ------- |
