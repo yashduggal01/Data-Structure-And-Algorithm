@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0875-koko-eating-bananas) |
@@ -240,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0739-daily-temperatures) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
