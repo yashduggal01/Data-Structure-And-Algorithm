@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
+| [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
