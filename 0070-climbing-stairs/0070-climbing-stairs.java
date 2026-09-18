@@ -1,19 +1,14 @@
 class Solution {
-    static int[] dp;
     public int climbStairs(int n) {
-        if(n<=1) return 1;
-        dp = new int[n+1];
-        //Arrays.fill(dp,-1);
-        dp[0]=1;
-        dp[1] =1;
-        for(int i =2;i<=n;i++){
-            dp[i]=dp[i-1]+dp[i-2];
+        if(n<=1){
+            return 1;
+        }
+        int[] dp = new int[n+1]; // Storing the state for 0 to n steps.
+        dp[0] = 1;
+        dp[1] = 1;
+        for(int i = 2;i<=n;i++){
+            dp[i] = dp[i-1]+dp[i-2];
         }
         return dp[n];
     }
-    // static int solve(int n){
-    //     if(n<=1) return 1;
-    //     if(dp[n]!=-1) return dp[n];
-    //     return dp[n] = solve(n-1)+solve(n-2);
-    // }
 }
