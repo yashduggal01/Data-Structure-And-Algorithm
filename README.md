@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [2336-smallest-number-in-infinite-set](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2336-smallest-number-in-infinite-set) |
 ## Linked List
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 ## Topological Sort
 |  |
