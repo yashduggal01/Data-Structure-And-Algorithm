@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
