@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1094-car-pooling) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2140-solving-questions-with-brainpower](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2140-solving-questions-with-brainpower) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2542-maximum-subsequence-score) |
 ## Matrix
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [2140-solving-questions-with-brainpower](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2140-solving-questions-with-brainpower) |
 ## Topological Sort
 |  |
 | ------- |
