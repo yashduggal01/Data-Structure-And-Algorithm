@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0875-koko-eating-bananas) |
+| [0983-minimum-cost-for-tickets](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [2140-solving-questions-with-brainpower](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2140-solving-questions-with-brainpower) |
 ## Topological Sort
 |  |
