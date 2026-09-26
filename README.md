@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0091-decode-ways](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
