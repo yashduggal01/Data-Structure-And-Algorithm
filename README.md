@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1035-uncrossed-lines) |
 | [2140-solving-questions-with-brainpower](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2140-solving-questions-with-brainpower) |
+| [2466-count-ways-to-build-good-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2466-count-ways-to-build-good-strings) |
 ## Topological Sort
 |  |
 | ------- |
