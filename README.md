@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1035-uncrossed-lines) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2140-solving-questions-with-brainpower](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2140-solving-questions-with-brainpower) |
 | [2466-count-ways-to-build-good-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2466-count-ways-to-build-good-strings) |
 ## Topological Sort
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
