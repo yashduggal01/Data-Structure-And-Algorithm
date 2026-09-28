@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0547-number-of-provinces) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0091-decode-ways) |
+| [0279-perfect-squares](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Newton's Method
@@ -328,12 +331,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 ## Longest Common Subsequence
