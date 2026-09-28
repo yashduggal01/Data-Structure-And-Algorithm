@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0740-delete-and-earn) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
+| [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/1035-uncrossed-lines) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
