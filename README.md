@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
@@ -283,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0187-repeated-dna-sequences) |
 ## Stack
 |  |
@@ -351,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0474-ones-and-zeroes) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
