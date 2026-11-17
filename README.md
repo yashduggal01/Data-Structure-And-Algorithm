@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0763-partition-labels](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/yashduggal01/Data-Structure-And-Algorithm/tree/master/2462-total-cost-to-hire-k-workers) |
